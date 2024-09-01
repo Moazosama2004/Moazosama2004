@@ -9,24 +9,38 @@
 ![Banner](https://github.com/omarahmedx14/omarahmedx14/assets/38296077/69de8e3d-36fd-4ff1-846e-71254e19824b)
 
 <br>
-<img align="right" height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY0cml1bWpnMzQ3dnpocDhrOW03d3IyN2o2M2VpMWplaDd5dDVjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sid4QgwDxJ8l2/giphy.gif"  />
 
-###
-
-<img src="https://raw.githubusercontent.com/Moazosama2004/Moazosama2004/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moazosama2004&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY0cml1bWpnMzQ3dnpocDhrOW03d3IyN2o2M2VpMWplaDd5dDVjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sid4QgwDxJ8l2/giphy.gif"  />
+
+###
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/moaz-osama-161ab723a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/muazosama2004/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.youtube.com/@MoazOsama2004" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/muazosama2004/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/UrfavMoaaaz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="25" alt="dart logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo"  />
@@ -78,11 +92,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moazosama2004&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
 
 ###
-
