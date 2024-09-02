@@ -11,9 +11,7 @@
 <br>
 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moazosama2004&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
+
 
 <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY0cml1bWpnMzQ3dnpocDhrOW03d3IyN2o2M2VpMWplaDd5dDVjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sid4QgwDxJ8l2/giphy.gif"  />
 
@@ -94,3 +92,9 @@
 
 
 ###
+<br>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moazosama2004&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
