@@ -4,16 +4,16 @@
   </blockquote>
 </div>
 
-<br>
+<div align="center">
+  <img 
+    src="https://i.pinimg.com/736x/5e/ed/70/5eed70d20dd26c91e370cbc81d60f557.jpg" 
+    alt="Banner" 
+    style="width: 100%; max-width: 1000px; height: auto;" />
+</div>
 
-![Banner](https://github.com/omarahmedx14/omarahmedx14/assets/38296077/69de8e3d-36fd-4ff1-846e-71254e19824b)
-
-<br>
 
 
 
-
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY0cml1bWpnMzQ3dnpocDhrOW03d3IyN2o2M2VpMWplaDd5dDVjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sid4QgwDxJ8l2/giphy.gif"  />
 
 ###
 <br>
