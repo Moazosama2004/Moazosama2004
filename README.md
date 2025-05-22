@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">  
   <blockquote>
     <h2><strong>The best fighter is NEVER angry </strong></h2>
   </blockquote>
