@@ -8,7 +8,7 @@
   <img 
     src="https://i.pinimg.com/736x/5e/ed/70/5eed70d20dd26c91e370cbc81d60f557.jpg" 
     alt="Banner" 
-    style="width: 100%; max-width: 1000px; height: auto;" />
+    style="width: 100%; max-width: 1000px; height: auto;" /> 
 </div>
 
 
